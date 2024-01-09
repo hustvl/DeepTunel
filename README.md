@@ -1,1 +1,5 @@
 # DeepTunel
+
+DeepTunel: Constructing Datasets and Training Deep Networks for the Direct Identification of Apoptosis Cells from H&E Staining Images
+
+Accurate evaluation of apoptosis in tumor tissues is essential for the diagnosis and treatment of tumors. Terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) has been widely employed for detecting apoptotic cells in tissue sections for 30 years; however, its complex nature may yield erroneous results. Herein, a Deep Tunel network, capable of identifying and quantitatively analyzing apoptosis on H&E-stained tissue sections, is proposed, and its performance was assessed using 73 samples from four cancer models in three animal species (number of patches=44,189). The proposed network exhibited high accuracy (98.5%) in identifying apoptotic cells and was found to be 17.4% more precise than the current gold standard. Moreover, in comparison to pathologists, the proposed network exhibited a threefold increase in accuracy and was 100 times faster in detecting apoptotic cells. Thus, the proposed network may offer significant convenience and accuracy for investigating apoptosis in future studies.
